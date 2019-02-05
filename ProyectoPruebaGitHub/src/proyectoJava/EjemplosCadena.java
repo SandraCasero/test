@@ -4,7 +4,7 @@ public class EjemplosCadena {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		char[] cadena={'p','a','c','o'};
+		char[] cadena={'p','a','c','a'};
 		System.out.println(cadena);
 		String cadena1="paco"; //mejor new String("paco");
 		String cadena2=new String("paco");
