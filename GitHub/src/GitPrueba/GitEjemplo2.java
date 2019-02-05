@@ -1,10 +1,10 @@
 package GitPrueba;
 
-public class GitEjemplo {
+public class GitEjemplo2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int i=0;
+
 	}
 
 }
